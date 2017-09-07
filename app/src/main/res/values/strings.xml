@@ -5,4 +5,7 @@
     <string name="prod">Multiply</string>
     <string name="div">Divide</string>
     <string name="enter_hint">Enter a number</string>
+    <string name="noZero">You cant divide by Zero silly goose</string>
+    <string name="clr">Clear</string>
+    <string name="answer">The answer will be here</string>
 </resources>
