@@ -35,4 +35,9 @@ public class MainActivity extends AppCompatActivity {
         result.setText(Double.toString(num1 + num2));
     }  //addNums()
 
+    public void subNums(View v){
+        num1 = Double.parseDouble(etNum1.getText().toString());
+        num2 = Double.parseDouble(etNum2.getText().toString());
+        result.setText(Double.toString(num1 - num2));
+    }
 }
